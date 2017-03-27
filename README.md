@@ -2,8 +2,6 @@
 
 This is a game of blackjack that can be played in the browser.
 
-This game was built using JavaScript and jQuery
-
 ## Installing
 
 You can play the game [here](http://justinuzoije.com/blackjack/index.html)
